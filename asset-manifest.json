@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/thegodcooker/static/css/main.4cc9bdc5.chunk.css",
-    "main.js": "/thegodcooker/static/js/main.e448014c.chunk.js",
-    "main.js.map": "/thegodcooker/static/js/main.e448014c.chunk.js.map",
+    "main.js": "/thegodcooker/static/js/main.1d7de5c7.chunk.js",
+    "main.js.map": "/thegodcooker/static/js/main.1d7de5c7.chunk.js.map",
     "runtime-main.js": "/thegodcooker/static/js/runtime-main.703e8719.js",
     "runtime-main.js.map": "/thegodcooker/static/js/runtime-main.703e8719.js.map",
     "static/css/2.95258f03.chunk.css": "/thegodcooker/static/css/2.95258f03.chunk.css",
     "static/js/2.b3f8b66f.chunk.js": "/thegodcooker/static/js/2.b3f8b66f.chunk.js",
     "static/js/2.b3f8b66f.chunk.js.map": "/thegodcooker/static/js/2.b3f8b66f.chunk.js.map",
     "index.html": "/thegodcooker/index.html",
-    "precache-manifest.1c51f1123e5a3f512d21a4b77e967f34.js": "/thegodcooker/precache-manifest.1c51f1123e5a3f512d21a4b77e967f34.js",
+    "precache-manifest.a8d5ca00249c181a0ed65c25b45ec095.js": "/thegodcooker/precache-manifest.a8d5ca00249c181a0ed65c25b45ec095.js",
     "service-worker.js": "/thegodcooker/service-worker.js",
     "static/css/2.95258f03.chunk.css.map": "/thegodcooker/static/css/2.95258f03.chunk.css.map",
     "static/css/main.4cc9bdc5.chunk.css.map": "/thegodcooker/static/css/main.4cc9bdc5.chunk.css.map",
@@ -30,6 +30,6 @@
     "static/css/2.95258f03.chunk.css",
     "static/js/2.b3f8b66f.chunk.js",
     "static/css/main.4cc9bdc5.chunk.css",
-    "static/js/main.e448014c.chunk.js"
+    "static/js/main.1d7de5c7.chunk.js"
   ]
 }

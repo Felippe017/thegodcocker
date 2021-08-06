@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/thegodcooker/precache-manifest.1c51f1123e5a3f512d21a4b77e967f34.js"
+  "/thegodcooker/precache-manifest.a8d5ca00249c181a0ed65c25b45ec095.js"
 );
 
 self.addEventListener('message', (event) => {
