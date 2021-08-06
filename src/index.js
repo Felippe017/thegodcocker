@@ -8,7 +8,7 @@ import RecipeProvider from './Context/RecipesProvider';
 
 ReactDOM.render(
   <BrowserRouter>
-    <RecipeProvider basename={ process.env.PUBLIC_URL }>
+    <RecipeProvider>
       <App />
     </RecipeProvider>
   </BrowserRouter>, document.getElementById('root'),

@@ -34,7 +34,7 @@ function App() {
       <Route path="/perfil" component={ Perfil } />
       <Route path="/comidas" component={ MainPage } />
       <Route path="/bebidas" component={ MainPage } />
-      <Route exact path="/" component={ Home } />
+      <Route exact path="/thegodcooker" component={ Home } />
       <Route component={ NotFound } />
     </Switch>
   );
